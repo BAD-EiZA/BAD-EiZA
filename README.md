@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erzhanto!;" />
 </h1>
 
-<h3 align="center">A passionate software developer & game developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate software, AR/VR, & game developer from Indonesia 🇮🇩</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **PT. Multimedia Digital Nusantara as Backend Developer**
+ 🔭 I’m currently working on **PT. Multimedia Digital Nusantara as Fullstack Developer**
  
  🌱 I’m currently learning **Golang, Nest.js, AWS**
 
