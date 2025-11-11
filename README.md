@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **PT. Multimedia Digital Nusantara as Fullstack Developer**
+ 🔭 I’m currently working on **PT. Atlaz Belajar Bahasa as Fullstack Developer**
  
- 🌱 I’m currently learning **Golang, Nest.js, AWS**
+ 🌱 I’m currently learning **Golang, AWS**
 
-💬 Ask me about **Node.js, Next.js, Express.js... or anything [here](https://github.com/BAD-EiZA/BAD-EiZA/issues)**
+💬 Ask me about **Node.js, Next.js, Nest.js, Express.js... or anything [here](https://github.com/BAD-EiZA/BAD-EiZA/issues)**
 
 ⚡ Fun fact **I have a digital daughter named mavis, she is very smart and cute :D**
 
